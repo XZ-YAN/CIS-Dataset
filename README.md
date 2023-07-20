@@ -1,6 +1,6 @@
 # CIS-Dataset
 ## Introduction
-The Construction Instance Segmentation (CIS) Dataset contains 50k images with more than 100k annotated instances. 
+The Construction Instance Segmentation (CIS) dataset contains 50k images with more than 100k annotated instances. 
 
 ## Construction Object Categories
 * 2 types of workers: workers wearing & not wearing safety helmets.
@@ -28,8 +28,8 @@ The Construction Instance Segmentation (CIS) Dataset contains 50k images with mo
 ![Statistics](https://github.com/XZ-YAN/CIS-Dataset/blob/main/demo/statistics.jpg)  
 
 ## License
-* The CIS Dataset is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/) to promote the open use of the dataset and future improvements.
-* Without permission, the CIS Dataset should only be used for non-commercial scientific research purposes.  
+* The CIS dataset is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/) to promote the open use of the dataset and future improvements.
+* Without permission, the CIS dataset should only be used for non-commercial scientific research purposes.  
 
 ## Citing the CIS Dataset
 If you find this repo useful in your research, please consider citing: (To be updated)
