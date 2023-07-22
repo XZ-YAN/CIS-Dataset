@@ -3,9 +3,9 @@
 The Construction Instance Segmentation (CIS) dataset contains 50k images with more than 100k annotated instances. 
 
 ## Construction Object Categories
-* 2 types of workers: workers wearing & not wearing safety helmets.
-* 1 type of material: precast component (PC).  
-* 7 types of machines: PC delivery truck, dump truck, concrete mixer truck, excavator, roller, dozer & wheel loader.
+* 2 categories of workers: workers wearing & not wearing safety helmets.
+* 1 categories of materials: precast components (PCs).  
+* 7 categories of machines: PC delivery trucks, dump trucks, concrete mixer trucks, excavators, rollers, dozers & wheel loaders.
 ![Categories](https://github.com/XZ-YAN/CIS-Dataset/blob/main/demo/categories.jpg)  
 
 ## Download the CIS Dataset
