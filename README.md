@@ -32,4 +32,5 @@ The Construction Instance Segmentation (CIS) dataset contains 50k images with mo
 * Without permission, the CIS dataset should only be used for non-commercial scientific research purposes.  
 
 ## Citing the CIS Dataset
-If you find this repo useful in your research, please consider citing: (To be updated)
+If you find this repo useful in your research, please consider citing:  
+Xuzhong Yan, Hong Zhang, Yefei Wu, Chen Lin, Shengwei Liu, Construction Instance Segmentation (CIS) Dataset for Deep Learning-Based Computer Vision, Automation in Construction. 156 (2023) 105083, https://doi.org/10.1016/j.autcon.2023.105083.
