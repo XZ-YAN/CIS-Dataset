@@ -1,6 +1,6 @@
 # CIS-Dataset
 ## Introduction
-The Construction Instance Segmentation (CIS) dataset contains 50k images with more than 100k annotated instances. 
+The Construction Instance Segmentation (CIS) dataset contains 50k images with more than 83k annotated instances. 
 
 ## Construction Object Categories
 * 2 categories of workers: workers wearing & not wearing safety helmets.
