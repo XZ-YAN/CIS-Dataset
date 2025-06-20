@@ -1,6 +1,6 @@
 # CIS-Dataset
 ## Introduction
-The Construction Instance Segmentation (CIS) dataset contains 50k images with more than 83k annotated instances. 
+The Construction Instance Segmentation version 1 (CISv1) dataset contains 50k images with more than 83k annotated instances. 
 
 ## Construction Object Categories
 * 2 categories of workers: workers wearing & not wearing safety helmets.
@@ -9,7 +9,7 @@ The Construction Instance Segmentation (CIS) dataset contains 50k images with mo
 ![Categories](https://github.com/XZ-YAN/CIS-Dataset/blob/main/demo/categories.jpg)  
 
 ## Download the CIS Dataset
-* [Download link](https://www.aliyundrive.com/s/pDJ2C2xyGK3)
+* CISv1: [Download link](https://www.alipan.com/s/Ewz8npjTiC2)
 * The dataset is compressed for ease of download. To decode the compressed dataset, move the downloaded "dataset" folder into the root directory of this repo and run:    
   `$ python CIS_decoder.py train 5`  
   `$ python CIS_decoder.py val 1`  
