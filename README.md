@@ -1,7 +1,7 @@
 # CIS-Dataset
 ## Introduction
-The Construction Instance Segmentation version 1 (CISv1) dataset contains 50k images with over 83k annotated instances, as introduced in the [paper](https://doi.org/10.1016/j.autcon.2023.105083). 
-The Construction Instance Segmentation version 2 (CISv2) dataset contains 62k images with over 117k annotated instances.
+* The Construction Instance Segmentation version 1 (CISv1) dataset contains 50k images with over 83k annotated instances, as introduced in the [paper](https://doi.org/10.1016/j.autcon.2023.105083).  
+* The Construction Instance Segmentation version 2 (CISv2) dataset contains 62k images with over 117k annotated instances.  
 
 ## Construction Object Categories
 * 2 categories of workers: workers wearing & not wearing safety helmets.
