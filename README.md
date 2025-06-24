@@ -11,7 +11,7 @@
 
 ## Download the CIS Dataset
 * CISv1: [Download link](https://www.alipan.com/s/hCa7nuezUAf)
-* CISv2: [Download link](https://www.alipan.com/s/zPCWUKibWGj) (Updated on June 21, 2025)
+* CISv2: [Download link](https://www.alipan.com/s/zPCWUKibWGj) (Updated on June 24, 2025)
 * Note: If the Cloud Drive is not accessible in your region, please use a VPN.  
 * The dataset is compressed for ease of download. To decode the compressed dataset, move the downloaded "dataset" folder into the root directory of this repo and run:    
   `$ python CIS_decoder.py train 5`  
