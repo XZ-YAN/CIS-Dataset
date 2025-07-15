@@ -36,4 +36,4 @@
 
 ## Citing the CIS Dataset
 If you find this repo useful in your research, please consider citing:  
-* Xuzhong Yan, Hong Zhang, Yefei Wu, Chen Lin, Shengwei Liu (2023). Construction Instance Segmentation (CIS) Dataset for Deep Learning-Based Computer Vision. Automation in Construction. 156: 105083, https://doi.org/10.1016/j.autcon.2023.105083.
+* Xuzhong Yan, Hong Zhang, Yefei Wu, Chen Lin, Shengwei Liu (2023). Construction Instance Segmentation (CIS) Dataset for Deep Learning-Based Computer Vision. Automation in Construction. 156: 105083. DOI: https://doi.org/10.1016/j.autcon.2023.105083
